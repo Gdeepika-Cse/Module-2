@@ -34,5 +34,6 @@ for i in range(1, rows+1):
 ## Output
 
 <img width="656" height="738" alt="{4B6E7EAC-3F5A-40F8-9C27-9A8BE6496148}" src="https://github.com/user-attachments/assets/2171b217-56fc-4ccd-ae53-d442a810460d" />
+
 ## Result
 Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
