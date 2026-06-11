@@ -16,6 +16,7 @@ print(y)
 ## Output
 
 <img width="395" height="330" alt="{BE2A80D4-BFB2-4F6E-AE33-FD6478021F6D}" src="https://github.com/user-attachments/assets/a60e69e1-51f8-4912-8ddb-c8fbcfd0a7a4" />
+
 ## Result
 
 Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
@@ -70,6 +71,7 @@ print(f(i, j,z))
 ## Output
 
 <img width="538" height="409" alt="{5A575DA1-485D-49D2-9D76-4F63310A07B4}" src="https://github.com/user-attachments/assets/5cbd6452-833b-4dd9-971b-0b48c8d1023f" />
+
 ## Result
 Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
 
@@ -109,6 +111,7 @@ for i in range(1, rows+1):
 ## Output
 
 <img width="656" height="738" alt="{4B6E7EAC-3F5A-40F8-9C27-9A8BE6496148}" src="https://github.com/user-attachments/assets/2171b217-56fc-4ccd-ae53-d442a810460d" />
+
 ## Result
 Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
 
@@ -142,7 +145,7 @@ else:
 ```
 ## Output
 
-<img width="1032" height="278" alt="{0AE7CE82-9138-4D7B-8FDF-BC946B4E7793}" src="https://github.com/user-attachments/assets/6e4fa9ff-0b24-43b2-b976-11f36d6f7718" />
+<img width="1032" height="278" alt="{0AE7CE82-9138-4D7B-8FDF-BC946B4E7793}" src="https://github.com/user-attachments/assets/6e4fa9ff-0b24-43b2-b976-11f36d6f7718"/>
 
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
